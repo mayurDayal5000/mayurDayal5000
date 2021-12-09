@@ -10,9 +10,9 @@ Currently doing challenges on frontend mentor to improve my designing skills fur
 
 ### Skills
 
-![](https://img.shields.io/badge/markup_language-HTML-informational?style=for-the-badge&labelColor=3b4d61&color=9cf&logo=html5&logoColor=e34f26) &nbsp;&nbsp; ![](https://img.shields.io/badge/styling-CSS-informational?style=for-the-badge&labelColor=3b4d61&color=9cf&logo=css3&logoColor=1572b6) &nbsp;&nbsp; ![](https://img.shields.io/badge/code-JavaScript-informational?style=for-the-badge&labelColor=3b4d61&color=9cf&logo=javascript&logoColor=f8e030&) &nbsp;&nbsp; ![](https://img.shields.io/badge/code-Java-informational?style=for-the-badge&labelColor=3b4d61&color=9cf&logo=java) 
+![](https://img.shields.io/badge/markup_language-HTML-informational?style=for-the-badge&labelColor=3b4d61&color=9cf&logo=html5&logoColor=e34f26) &nbsp;&nbsp; ![](https://img.shields.io/badge/styling-CSS-informational?style=for-the-badge&labelColor=3b4d61&color=9cf&logo=css3&logoColor=1572b6) &nbsp;&nbsp; ![](https://img.shields.io/badge/code-JavaScript-informational?style=for-the-badge&labelColor=3b4d61&color=9cf&logo=javascript&logoColor=f8e030&)
 
-![](https://img.shields.io/badge/framework-Electron.js-informational?style=for-the-badge&labelColor=3b4d61&color=9cf&logo=electron&logoColor=a0ebf9) &nbsp;&nbsp; ![](https://img.shields.io/badge/JS_library-React-informational?style=for-the-badge&labelColor=3b4d61&color=9cf&logo=react&logoColor=7ddfff)
+![](https://img.shields.io/badge/JS_library-React-informational?style=for-the-badge&labelColor=3b4d61&color=9cf&logo=react&logoColor=7ddfff)
 
 <br />
 
@@ -20,7 +20,6 @@ Currently doing challenges on frontend mentor to improve my designing skills fur
 
 <br/>
 
-![](https://img.shields.io/badge/os-Windows_10-informational?style=for-the-badge&labelColor=3b4d61&color=9cf&logo=windows) &nbsp;&nbsp; ![](https://img.shields.io/badge/os-ubuntu-informational?style=for-the-badge&labelColor=3b4d61&color=9cf&logo=ubuntu) &nbsp;&nbsp; ![](https://img.shields.io/badge/os-zorin-informational?style=for-the-badge&labelColor=3b4d61&color=9cf&logo=zorin) &nbsp;&nbsp; ![](https://img.shields.io/badge/editor-Visual_Studio_Code-informational?style=for-the-badge&labelColor=3b4d61&color=9cf&logo=visualstudiocode)
+![](https://img.shields.io/badge/os-Windows_10-informational?style=for-the-badge&labelColor=3b4d61&color=9cf&logo=windows) &nbsp;&nbsp; ![](https://img.shields.io/badge/os-ubuntu-informational?style=for-the-badge&labelColor=3b4d61&color=9cf&logo=ubuntu) &nbsp;&nbsp; ![](https://img.shields.io/badge/editor-Visual_Studio_Code-informational?style=for-the-badge&labelColor=3b4d61&color=9cf&logo=visualstudiocode)
 
 <p>&nbsp;</p>
-
